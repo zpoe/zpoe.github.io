@@ -10,8 +10,7 @@ p{
   color: white;
   font-size: 40px;
 }
-.hello
-{
-  weight: 800px;
-  height: 450px;
+img{
+ height: 50%;
+ weight: 50%;
 }
